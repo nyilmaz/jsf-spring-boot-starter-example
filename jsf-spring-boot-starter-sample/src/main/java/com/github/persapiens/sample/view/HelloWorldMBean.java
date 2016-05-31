@@ -1,4 +1,4 @@
-package com.github.persapiens.example.view;
+package com.github.persapiens.sample.view;
 
 import java.io.Serializable;
 import javax.faces.application.FacesMessage;
